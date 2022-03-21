@@ -104,7 +104,7 @@ hr{
 }
 
 .footer-link:hover{
-  color: #D8D2CB;
+  text-decoration: underline;
 }
 
 .intro{
